@@ -4,6 +4,7 @@ import GithubCard from "./GithubCard";
 import InstaCard from "./InstaCard";
 import LinkedInCard from "./LinkedInCard";
 import GoogleDevCard from "./GoogleDevCard";
+import ResumeCard from "./ResumeCard";
 
 const Container = () => {
   return (
@@ -14,8 +15,9 @@ const Container = () => {
       <WebsiteCard />
       <GithubCard />
       <LinkedInCard />
-      <InstaCard />
+      <ResumeCard />
       <GoogleDevCard />
+      <InstaCard />
     </div>
   );
 };

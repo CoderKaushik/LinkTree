@@ -11,7 +11,7 @@ const WebsiteCard = () => {
           <h2 className="text-white text-2xl font-semibold">
             Website
           </h2>
-          <p className="text-white font-semibold">checkout my work!</p>
+          <p className="text-white font-semibold">Checkout My Work!</p>
         </div>
       </div>
       );

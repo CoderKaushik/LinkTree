@@ -3,7 +3,7 @@ import Google from "./assets/google.png";
 
 const GoogleDevCard = () => {
   return (
-    <div className="lg:w-[48%] md:w-[48%] sm:w-[100%] max-sm:w-[100%] lg:mr-2 md:mr-2 mb-10 h-[32%] inline-flex flex-col gap-2 justify-around mt-20">
+    <div className="lg:w-[48%] md:w-[48%] sm:w-[100%] max-sm:w-[100%] lg:mr-2 md:mr-2 h-[32%] inline-flex flex-col gap-2 justify-around mt-20">
       <a href="https://gdsc.community.dev/u/m22ctj/#/about" target="_blank" className="w-full h-[70%] rounded-xl flex justify-center items-center hover:cursor-pointer" style={{ backgroundImage: `url(${Google})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
         <i className="fa-brands fa-google text-8xl text-white"></i>
       </a>
