@@ -10,7 +10,7 @@ const Container = () => {
   return (
     <div className="w-[80%] h-screen p-2">
       <div className="w-full h-8 ">
-        <p className="text-white font-semibold pt-8">hiteshwar's links</p>
+        <p className="text-white font-semibold pt-8">Hiteshwar's Links</p>
       </div>
       <WebsiteCard />
       <GithubCard />
