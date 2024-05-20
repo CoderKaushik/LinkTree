@@ -4,7 +4,7 @@ const ResumeCard = () => {
   return (
     <div className="lg:w-[48%] md:w-[48%] sm:w-[100%] max-sm:w-[100%] lg:ml-2 md:ml-2 h-[32%] inline-flex flex-col gap-2 justify-around mt-20">
       <a
-        href="https://drive.google.com/file/d/15ZPIo2yrarWmSniaxLyW2F4SGyl5v0D4/view"
+        href="https://drive.google.com/file/d/1v0_EVsDMn6gTcWsmof2zEE6Tbcj1ikIk/view?usp=sharing"
         target="_blank"
         className="w-full h-[70%] rounded-xl flex justify-center items-center bg-gray-700 hover:cursor-pointer"
       >
